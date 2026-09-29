@@ -9,6 +9,13 @@
 [![Disulfides](https://img.shields.io/badge/Cysteines-0%20(Soluble%20E.%20coli%20Yield)-orange?style=flat-square)](#cysteine-free-design)
 [![pH Switch](https://img.shields.io/badge/pH%20Switch-pH%206.5%20ON%20%2F%20pH%207.4%20OFF-rose?style=flat-square)](#biophysical-switch-thermodynamics)
 
+[![Live Web App](https://img.shields.io/badge/Live%20Web%20App-Online%20%26%20Public-success?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sepas1609.github.io/EGFR-pH-Conditional-Binder-Design/)
+[![Deploy with Vercel](https://img.shields.io/badge/Deploy%20with-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsepas1609%2FEGFR-pH-Conditional-Binder-Design)
+[![Deploy to Netlify](https://img.shields.io/badge/Deploy%20to-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/start/deploy?repository=https://github.com/sepas1609/EGFR-pH-Conditional-Binder-Design)
+
+> 🌐 **Public Live Deployment**: [https://sepas1609.github.io/EGFR-pH-Conditional-Binder-Design/](https://sepas1609.github.io/EGFR-pH-Conditional-Binder-Design/)  
+> Deployed globally with live biophysics calculator, cross-species epitope explorer, sequence confidentiality shield, and code hub.
+
 ---
 
 ## Executive Summary
@@ -192,10 +199,19 @@ This repository contains fully working, reproducible Python scripts in [`scripts
 
 ---
 
-## 🌐 Interactive Web Dashboard
+## 🌐 Interactive Web Dashboard & Public Deployments
 
-Launch the self-contained dashboard locally by opening [`index.html`](file:///Users/saranboddu/Desktop/Amrita/Extra/ProteinBase_Antrophic/index.html) in any browser, or run a local Python HTTP server:
+### 1. Live Public Access (Instant)
+Access the live web application immediately without running any local servers:
+👉 **[https://sepas1609.github.io/EGFR-pH-Conditional-Binder-Design/](https://sepas1609.github.io/EGFR-pH-Conditional-Binder-Design/)**
 
+### 2. Deploy to Cloud (1-Click)
+Deploy your own instance of this platform to free cloud hosting platforms:
+- **Deploy to Vercel**: Click [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsepas1609%2FEGFR-pH-Conditional-Binder-Design) (Configured via `vercel.json` with zero build steps).
+- **Deploy to Netlify**: Click [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sepas1609/EGFR-pH-Conditional-Binder-Design).
+
+### 3. Local Development (Optional)
+If you wish to run the app offline on your computer:
 ```bash
 python3 -m http.server 8000
 ```
