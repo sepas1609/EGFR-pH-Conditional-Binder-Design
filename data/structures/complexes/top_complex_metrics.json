@@ -1,0 +1,42 @@
+[
+  {
+    "name": "EGFR-pH-HB-B02",
+    "rank": 1,
+    "binder_plddt": 64.48,
+    "egfr_d3_plddt": 84.12,
+    "complex_mean_plddt": 75.0,
+    "pdb_path": "data/structures/complexes/EGFR-pH-HB-B02_EGFR_complex.pdb"
+  },
+  {
+    "name": "EGFR-pH-HB-B01",
+    "rank": 2,
+    "binder_plddt": 65.17,
+    "egfr_d3_plddt": 84.03,
+    "complex_mean_plddt": 75.08,
+    "pdb_path": "data/structures/complexes/EGFR-pH-HB-B01_EGFR_complex.pdb"
+  },
+  {
+    "name": "EGFR-pH-HB-G01",
+    "rank": 3,
+    "binder_plddt": 69.86,
+    "egfr_d3_plddt": 84.94,
+    "complex_mean_plddt": 77.28,
+    "pdb_path": "data/structures/complexes/EGFR-pH-HB-G01_EGFR_complex.pdb"
+  },
+  {
+    "name": "EGFR-pH-HB-B03",
+    "rank": 4,
+    "binder_plddt": 66.14,
+    "egfr_d3_plddt": 84.26,
+    "complex_mean_plddt": 75.56,
+    "pdb_path": "data/structures/complexes/EGFR-pH-HB-B03_EGFR_complex.pdb"
+  },
+  {
+    "name": "EGFR-pH-HB-D02",
+    "rank": 5,
+    "binder_plddt": 69.21,
+    "egfr_d3_plddt": 84.38,
+    "complex_mean_plddt": 76.64,
+    "pdb_path": "data/structures/complexes/EGFR-pH-HB-D02_EGFR_complex.pdb"
+  }
+]

@@ -1,0 +1,418 @@
+{
+  "competition": "Anthropic x Adaptyv 2026 \u2014 Challenge 1",
+  "target": "EGFR (conditional binder, pH 6.5 ON / 7.4 OFF)",
+  "scaffold": "3-helix bundle miniprotein 60-90 aa",
+  "mechanism": "Histidine-switch: protonation at pH 6.5 creates salt bridge with EGFR D355/E352",
+  "designs": [
+    {
+      "name": "EGFR-pH-HB-A01",
+      "sequence": "FYNAHHLKALLQQELAELKRLEEAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+      "length": 69,
+      "mw_da": 7970.6,
+      "charge_pH74": 1.92,
+      "charge_pH65": 2.78,
+      "delta_charge": 0.85,
+      "aliphatic_index": 110.6,
+      "his_count": 3,
+      "ph_switch_score": 8.28,
+      "helix_breakers_pro": 0,
+      "issues": [],
+      "passes_filter": true,
+      "group": "A_Standard_His48",
+      "design_notes": "Standard 3HB, His at 4+8, Phe1+Tyr2 hydrophobic, Lys9 baseline contact",
+      "his_positions_h1": [
+        3,
+        7
+      ]
+    },
+    {
+      "name": "EGFR-pH-HB-A02",
+      "sequence": "WYQAHHLKALLAEELANLKRLEEAQKRLEEQLKGSGSLAAALRRLEQALREQKLGSLEAHLRRLEQALK",
+      "length": 69,
+      "mw_da": 7952.6,
+      "charge_pH74": 2.92,
+      "charge_pH65": 3.78,
+      "delta_charge": 0.85,
+      "aliphatic_index": 112.0,
+      "his_count": 3,
+      "ph_switch_score": 8.28,
+      "helix_breakers_pro": 0,
+      "issues": [],
+      "passes_filter": true,
+      "group": "A_Standard_His48",
+      "design_notes": "Trp1+Tyr3 hydrophobic patch, His at 5+8, extra Ala for helicity",
+      "his_positions_h1": [
+        4,
+        7
+      ]
+    },
+    {
+      "name": "EGFR-pH-HB-A03",
+      "sequence": "FYNHHALKALLQEELAQMKRLEEAQKRLEQALKGSGSLAAALRRLEQALREQKLGSLEAHLRRLEQALK",
+      "length": 69,
+      "mw_da": 7930.7,
+      "charge_pH74": 3.92,
+      "charge_pH65": 4.77,
+      "delta_charge": 0.85,
+      "aliphatic_index": 106.4,
+      "his_count": 3,
+      "ph_switch_score": 8.28,
+      "helix_breakers_pro": 0,
+      "issues": [],
+      "passes_filter": true,
+      "group": "A_Standard_His48",
+      "design_notes": "Adjacent His3+4 for cooperative pH effect, Asn for H-bond",
+      "his_positions_h1": [
+        3,
+        4
+      ]
+    },
+    {
+      "name": "EGFR-pH-HB-A04",
+      "sequence": "FYNAHHLRALLQQELAQLKRLEEAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+      "length": 69,
+      "mw_da": 7997.7,
+      "charge_pH74": 2.93,
+      "charge_pH65": 3.77,
+      "delta_charge": 0.85,
+      "aliphatic_index": 110.6,
+      "his_count": 3,
+      "ph_switch_score": 7.77,
+      "helix_breakers_pro": 0,
+      "issues": [],
+      "passes_filter": true,
+      "group": "A_Standard_His48",
+      "design_notes": "Arg at position 8 for baseline contact, His 4+8 pH switch",
+      "his_positions_h1": [
+        3,
+        7
+      ]
+    },
+    {
+      "name": "EGFR-pH-HB-A05",
+      "sequence": "YWNAHHLKALLQQELAQMKRLEEAQKRLEQALKGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+      "length": 69,
+      "mw_da": 8026.8,
+      "charge_pH74": 3.92,
+      "charge_pH65": 4.77,
+      "delta_charge": 0.85,
+      "aliphatic_index": 104.9,
+      "his_count": 3,
+      "ph_switch_score": 7.78,
+      "helix_breakers_pro": 0,
+      "issues": [],
+      "passes_filter": true,
+      "group": "A_Standard_His48",
+      "design_notes": "Tyr1+Trp2 aromatic pair for pi-stacking with EGFR Y373",
+      "his_positions_h1": [
+        3,
+        7
+      ]
+    },
+    {
+      "name": "EGFR-pH-HB-B01",
+      "sequence": "FYNAHHLKALLQQELAELKRLEEAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEHHLRRLEQALK",
+      "length": 69,
+      "mw_da": 8036.7,
+      "charge_pH74": 1.97,
+      "charge_pH65": 3.04,
+      "delta_charge": 1.07,
+      "aliphatic_index": 109.1,
+      "his_count": 4,
+      "ph_switch_score": 8.6,
+      "helix_breakers_pro": 0,
+      "issues": [],
+      "passes_filter": true,
+      "group": "B_Buried_His_H3",
+      "design_notes": "Buried His in H3 (positions 63+64) for cooperative pH destabilization",
+      "his_positions_h1": [
+        3,
+        7
+      ]
+    },
+    {
+      "name": "EGFR-pH-HB-B02",
+      "sequence": "WYQAHHLKALLAEELANLKRLEEAQKRLEEQLKGSGSLAAALRRLEQALREQKLGSLEHHLRRLEQALK",
+      "length": 69,
+      "mw_da": 8018.7,
+      "charge_pH74": 2.97,
+      "charge_pH65": 4.04,
+      "delta_charge": 1.07,
+      "aliphatic_index": 110.6,
+      "his_count": 4,
+      "ph_switch_score": 8.6,
+      "helix_breakers_pro": 0,
+      "issues": [],
+      "passes_filter": true,
+      "group": "B_Buried_His_H3",
+      "design_notes": "Trp1, H3 buried His pair, full cooperative switch",
+      "his_positions_h1": [
+        4,
+        7
+      ]
+    },
+    {
+      "name": "EGFR-pH-HB-B03",
+      "sequence": "FYNAHHLKALLQQELAELKRLEQAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQHLK",
+      "length": 69,
+      "mw_da": 8035.7,
+      "charge_pH74": 2.97,
+      "charge_pH65": 4.03,
+      "delta_charge": 1.07,
+      "aliphatic_index": 109.1,
+      "his_count": 4,
+      "ph_switch_score": 8.6,
+      "helix_breakers_pro": 0,
+      "issues": [],
+      "passes_filter": true,
+      "group": "B_Buried_His_H3",
+      "design_notes": "H3 C-terminal His for buried H-bond network at pH threshold",
+      "his_positions_h1": [
+        3,
+        7
+      ]
+    },
+    {
+      "name": "EGFR-pH-HB-C01",
+      "sequence": "FYNRAHHLKALLQQELAELKRLEEAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+      "length": 70,
+      "mw_da": 8126.8,
+      "charge_pH74": 2.92,
+      "charge_pH65": 3.78,
+      "delta_charge": 0.85,
+      "aliphatic_index": 109.0,
+      "his_count": 3,
+      "ph_switch_score": 8.28,
+      "helix_breakers_pro": 0,
+      "issues": [],
+      "passes_filter": true,
+      "group": "C_Shifted_His59",
+      "design_notes": "Arg3 for baseline contact, His 5+8 shifted register, targets E392",
+      "his_positions_h1": [
+        4,
+        7
+      ]
+    },
+    {
+      "name": "EGFR-pH-HB-C02",
+      "sequence": "WYNRHHAKALLQEELAQMKRLEEAQKRLEQALKGSGSLAAALRRLEQALREQKLGSLEAHLRRLEQALK",
+      "length": 69,
+      "mw_da": 8012.7,
+      "charge_pH74": 4.92,
+      "charge_pH65": 5.77,
+      "delta_charge": 0.85,
+      "aliphatic_index": 100.7,
+      "his_count": 3,
+      "ph_switch_score": 8.28,
+      "helix_breakers_pro": 0,
+      "issues": [
+        "Charge at pH 7.4 = 4.9 \u2014 too positive (aggregation risk)"
+      ],
+      "passes_filter": false,
+      "group": "C_Shifted_His59",
+      "design_notes": "Trp1 + Tyr2 aromatic, His5+6 cluster for strong pH cooperativity",
+      "his_positions_h1": [
+        4,
+        5
+      ]
+    },
+    {
+      "name": "EGFR-pH-HB-C03",
+      "sequence": "FYNKAHHLALLQQELAELKRLEEAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+      "length": 69,
+      "mw_da": 7970.6,
+      "charge_pH74": 1.92,
+      "charge_pH65": 2.78,
+      "delta_charge": 0.85,
+      "aliphatic_index": 110.6,
+      "his_count": 3,
+      "ph_switch_score": 8.28,
+      "helix_breakers_pro": 0,
+      "issues": [],
+      "passes_filter": true,
+      "group": "C_Shifted_His59",
+      "design_notes": "Lys4 for spacer, His 5+8 shifted, cross-species optimized geometry",
+      "his_positions_h1": [
+        4,
+        7
+      ]
+    },
+    {
+      "name": "EGFR-pH-HB-D01",
+      "sequence": "FYNKHLAKLHLLQQELAELKRLEEAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+      "length": 70,
+      "mw_da": 8140.9,
+      "charge_pH74": 2.92,
+      "charge_pH65": 3.78,
+      "delta_charge": 0.85,
+      "aliphatic_index": 113.1,
+      "his_count": 3,
+      "ph_switch_score": 8.28,
+      "helix_breakers_pro": 0,
+      "issues": [],
+      "passes_filter": true,
+      "group": "D_Wide_His411",
+      "design_notes": "Wider His spacing, bridges D355 and D420 on EGFR simultaneously",
+      "his_positions_h1": [
+        4,
+        9
+      ]
+    },
+    {
+      "name": "EGFR-pH-HB-D02",
+      "sequence": "WYNKHLARLHLLQQELAELKRLEEAQKRLEQALKGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+      "length": 70,
+      "mw_da": 8208.0,
+      "charge_pH74": 3.92,
+      "charge_pH65": 4.78,
+      "delta_charge": 0.85,
+      "aliphatic_index": 113.1,
+      "his_count": 3,
+      "ph_switch_score": 8.28,
+      "helix_breakers_pro": 0,
+      "issues": [],
+      "passes_filter": true,
+      "group": "D_Wide_His411",
+      "design_notes": "Arg7 for baseline, wide His coverage of EGFR groove",
+      "his_positions_h1": [
+        4,
+        9
+      ]
+    },
+    {
+      "name": "EGFR-pH-HB-E01",
+      "sequence": "FYNAHHLKALLQQELAELKRQLGSGSLEAALRRLEQALREQKLGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+      "length": 79,
+      "mw_da": 8981.7,
+      "charge_pH74": 3.92,
+      "charge_pH65": 4.78,
+      "delta_charge": 0.85,
+      "aliphatic_index": 112.7,
+      "his_count": 3,
+      "ph_switch_score": 8.28,
+      "helix_breakers_pro": 0,
+      "issues": [],
+      "passes_filter": true,
+      "group": "E_Extended_H1",
+      "design_notes": "Extended H1 (21aa), deeper EGFR groove penetration",
+      "his_positions_h1": [
+        3,
+        7
+      ]
+    },
+    {
+      "name": "EGFR-pH-HB-E02",
+      "sequence": "WYQAHHLKALLAEELANLKRQLGSGSLAAALRRLEQALREQKLGSGSLAAALRRLEQALREQKLGSLEAHLRRLEQALK",
+      "length": 79,
+      "mw_da": 8847.6,
+      "charge_pH74": 5.92,
+      "charge_pH65": 6.77,
+      "delta_charge": 0.85,
+      "aliphatic_index": 116.5,
+      "his_count": 3,
+      "ph_switch_score": 8.27,
+      "helix_breakers_pro": 0,
+      "issues": [
+        "Charge at pH 7.4 = 5.9 \u2014 too positive (aggregation risk)"
+      ],
+      "passes_filter": false,
+      "group": "E_Extended_H1",
+      "design_notes": "Extended H1 with Trp1, covers broader EGFR Domain III surface",
+      "his_positions_h1": [
+        4,
+        7
+      ]
+    },
+    {
+      "name": "EGFR-pH-HB-E03",
+      "sequence": "FYNHHALKALLQEELAQMKRQLGSGSLAAALRRLEQALREQKLGSGSLAAALRRLEQALREQKLGSLEAHLRRLEQALK",
+      "length": 79,
+      "mw_da": 8883.6,
+      "charge_pH74": 5.92,
+      "charge_pH65": 6.77,
+      "delta_charge": 0.85,
+      "aliphatic_index": 110.3,
+      "his_count": 3,
+      "ph_switch_score": 8.27,
+      "helix_breakers_pro": 0,
+      "issues": [
+        "Charge at pH 7.4 = 5.9 \u2014 too positive (aggregation risk)"
+      ],
+      "passes_filter": false,
+      "group": "E_Extended_H1",
+      "design_notes": "Adjacent His for cooperative, extended backbone for cross-species",
+      "his_positions_h1": [
+        3,
+        4
+      ]
+    },
+    {
+      "name": "EGFR-pH-HB-F01",
+      "sequence": "FYNAHHLKKLLQQELAKLKRLEEAQKRLEQALKGSGSLEAKLRRLEQALREQKLGSLEAHLRRLEQALKK",
+      "length": 70,
+      "mw_da": 8212.1,
+      "charge_pH74": 7.92,
+      "charge_pH65": 8.77,
+      "delta_charge": 0.85,
+      "aliphatic_index": 106.1,
+      "his_count": 3,
+      "ph_switch_score": 7.78,
+      "helix_breakers_pro": 0,
+      "issues": [
+        "Charge at pH 7.4 = 7.9 \u2014 too positive (aggregation risk)"
+      ],
+      "passes_filter": false,
+      "group": "F_High_pI",
+      "design_notes": "High pI design (extra Lys), enhanced electrostatic docking to tumor cell",
+      "his_positions_h1": [
+        3,
+        7
+      ]
+    },
+    {
+      "name": "EGFR-pH-HB-F02",
+      "sequence": "WYQAHHLKRLLAEELANLKRLEEAQKRLEQALKGSGSLAAALRRLEQALREQKLGSLEAHLRRLEQALKK",
+      "length": 70,
+      "mw_da": 8107.9,
+      "charge_pH74": 5.92,
+      "charge_pH65": 6.77,
+      "delta_charge": 0.85,
+      "aliphatic_index": 110.4,
+      "his_count": 3,
+      "ph_switch_score": 8.28,
+      "helix_breakers_pro": 0,
+      "issues": [
+        "Charge at pH 7.4 = 5.9 \u2014 too positive (aggregation risk)"
+      ],
+      "passes_filter": false,
+      "group": "F_High_pI",
+      "design_notes": "High pI, Trp1, Arg5 for initial electrostatic association",
+      "his_positions_h1": [
+        4,
+        7
+      ]
+    },
+    {
+      "name": "EGFR-pH-HB-G01",
+      "sequence": "FYNAHHLKAHLQQELAELKRLEEAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+      "length": 69,
+      "mw_da": 7994.6,
+      "charge_pH74": 1.97,
+      "charge_pH65": 3.04,
+      "delta_charge": 1.07,
+      "aliphatic_index": 104.9,
+      "his_count": 4,
+      "ph_switch_score": 11.6,
+      "helix_breakers_pro": 0,
+      "issues": [],
+      "passes_filter": true,
+      "group": "G_Dual_Interface",
+      "design_notes": "Three His in H1 for dual EGFR contact cluster coverage (D355+E352+E384)",
+      "his_positions_h1": [
+        3,
+        7,
+        10
+      ]
+    }
+  ]
+}

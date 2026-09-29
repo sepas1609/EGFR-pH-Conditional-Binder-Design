@@ -1,0 +1,156 @@
+[
+  {
+    "name": "EGFR-pH-HB-G01",
+    "sequence": "FYNAHHLKAHLQQELAELKRLEEAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+    "length": 69,
+    "mean_plddt": 79.77,
+    "min_plddt": 56.0,
+    "h1_plddt": 78.2,
+    "radius_of_gyration": 16.4,
+    "pdb_path": "data/structures/esm_folds/EGFR-pH-HB-G01.pdb",
+    "pass_folding_qc": true
+  },
+  {
+    "name": "EGFR-pH-HB-B01",
+    "sequence": "FYNAHHLKALLQQELAELKRLEEAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEHHLRRLEQALK",
+    "length": 69,
+    "mean_plddt": 80.62,
+    "min_plddt": 58.0,
+    "h1_plddt": 80.0,
+    "radius_of_gyration": 16.36,
+    "pdb_path": "data/structures/esm_folds/EGFR-pH-HB-B01.pdb",
+    "pass_folding_qc": true
+  },
+  {
+    "name": "EGFR-pH-HB-B02",
+    "sequence": "WYQAHHLKALLAEELANLKRLEEAQKRLEEQLKGSGSLAAALRRLEQALREQKLGSLEHHLRRLEQALK",
+    "length": 69,
+    "mean_plddt": 77.64,
+    "min_plddt": 59.0,
+    "h1_plddt": 80.1,
+    "radius_of_gyration": 16.08,
+    "pdb_path": "data/structures/esm_folds/EGFR-pH-HB-B02.pdb",
+    "pass_folding_qc": true
+  },
+  {
+    "name": "EGFR-pH-HB-B03",
+    "sequence": "FYNAHHLKALLQQELAELKRLEQAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQHLK",
+    "length": 69,
+    "mean_plddt": 80.3,
+    "min_plddt": 55.0,
+    "h1_plddt": 79.4,
+    "radius_of_gyration": 16.6,
+    "pdb_path": "data/structures/esm_folds/EGFR-pH-HB-B03.pdb",
+    "pass_folding_qc": true
+  },
+  {
+    "name": "EGFR-pH-HB-A01",
+    "sequence": "FYNAHHLKALLQQELAELKRLEEAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+    "length": 69,
+    "mean_plddt": 80.88,
+    "min_plddt": 58.0,
+    "h1_plddt": 79.9,
+    "radius_of_gyration": 16.46,
+    "pdb_path": "data/structures/esm_folds/EGFR-pH-HB-A01.pdb",
+    "pass_folding_qc": true
+  },
+  {
+    "name": "EGFR-pH-HB-A02",
+    "sequence": "WYQAHHLKALLAEELANLKRLEEAQKRLEEQLKGSGSLAAALRRLEQALREQKLGSLEAHLRRLEQALK",
+    "length": 69,
+    "mean_plddt": 76.38,
+    "min_plddt": 57.0,
+    "h1_plddt": 81.05,
+    "radius_of_gyration": 16.01,
+    "pdb_path": "data/structures/esm_folds/EGFR-pH-HB-A02.pdb",
+    "pass_folding_qc": true
+  },
+  {
+    "name": "EGFR-pH-HB-A03",
+    "sequence": "FYNHHALKALLQEELAQMKRLEEAQKRLEQALKGSGSLAAALRRLEQALREQKLGSLEAHLRRLEQALK",
+    "length": 69,
+    "mean_plddt": 77.49,
+    "min_plddt": 56.0,
+    "h1_plddt": 78.65,
+    "radius_of_gyration": 16.36,
+    "pdb_path": "data/structures/esm_folds/EGFR-pH-HB-A03.pdb",
+    "pass_folding_qc": true
+  },
+  {
+    "name": "EGFR-pH-HB-C01",
+    "sequence": "FYNRAHHLKALLQQELAELKRLEEAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+    "length": 70,
+    "mean_plddt": 81.17,
+    "min_plddt": 59.0,
+    "h1_plddt": 82.35,
+    "radius_of_gyration": 16.72,
+    "pdb_path": "data/structures/esm_folds/EGFR-pH-HB-C01.pdb",
+    "pass_folding_qc": true
+  },
+  {
+    "name": "EGFR-pH-HB-C03",
+    "sequence": "FYNKAHHLALLQQELAELKRLEEAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+    "length": 69,
+    "mean_plddt": 79.8,
+    "min_plddt": 58.0,
+    "h1_plddt": 79.15,
+    "radius_of_gyration": 16.43,
+    "pdb_path": "data/structures/esm_folds/EGFR-pH-HB-C03.pdb",
+    "pass_folding_qc": true
+  },
+  {
+    "name": "EGFR-pH-HB-D01",
+    "sequence": "FYNKHLAKLHLLQQELAELKRLEEAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+    "length": 70,
+    "mean_plddt": 80.67,
+    "min_plddt": 59.0,
+    "h1_plddt": 80.9,
+    "radius_of_gyration": 16.7,
+    "pdb_path": "data/structures/esm_folds/EGFR-pH-HB-D01.pdb",
+    "pass_folding_qc": true
+  },
+  {
+    "name": "EGFR-pH-HB-D02",
+    "sequence": "WYNKHLARLHLLQQELAELKRLEEAQKRLEQALKGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+    "length": 70,
+    "mean_plddt": 80.91,
+    "min_plddt": 60.0,
+    "h1_plddt": 81.85,
+    "radius_of_gyration": 16.62,
+    "pdb_path": "data/structures/esm_folds/EGFR-pH-HB-D02.pdb",
+    "pass_folding_qc": true
+  },
+  {
+    "name": "EGFR-pH-HB-E01",
+    "sequence": "FYNAHHLKALLQQELAELKRQLGSGSLEAALRRLEQALREQKLGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+    "length": 79,
+    "mean_plddt": 63.28,
+    "min_plddt": 49.0,
+    "h1_plddt": 63.4,
+    "radius_of_gyration": 12.5,
+    "pdb_path": "data/structures/esm_folds/EGFR-pH-HB-E01.pdb",
+    "pass_folding_qc": false
+  },
+  {
+    "name": "EGFR-pH-HB-A05",
+    "sequence": "YWNAHHLKALLQQELAQMKRLEEAQKRLEQALKGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+    "length": 69,
+    "mean_plddt": 76.45,
+    "min_plddt": 54.0,
+    "h1_plddt": 78.1,
+    "radius_of_gyration": 16.24,
+    "pdb_path": "data/structures/esm_folds/EGFR-pH-HB-A05.pdb",
+    "pass_folding_qc": true
+  },
+  {
+    "name": "EGFR-pH-HB-A04",
+    "sequence": "FYNAHHLRALLQQELAQLKRLEEAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+    "length": 69,
+    "mean_plddt": 80.14,
+    "min_plddt": 58.0,
+    "h1_plddt": 79.5,
+    "radius_of_gyration": 16.32,
+    "pdb_path": "data/structures/esm_folds/EGFR-pH-HB-A04.pdb",
+    "pass_folding_qc": true
+  }
+]

@@ -1,0 +1,923 @@
+[
+  {
+    "name": "EGFR-pH-HB-A01",
+    "group": "A",
+    "his_count": 3,
+    "ph_score": 8.28,
+    "length": 69,
+    "sequence": "FYNAHHLKALLQQELAELKRLEEAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+    "his_egfr_pairs": [
+      [
+        "H5\u2192D355",
+        "H9\u2192E352"
+      ]
+    ],
+    "conserved_contacts": [
+      "D355",
+      "E352",
+      "Y373",
+      "E384"
+    ],
+    "ph_energy": {
+      "h1_his_count": 2,
+      "total_his": 3,
+      "buried_his": 1,
+      "frac_protonated_65": 0.5,
+      "frac_protonated_74": 0.112,
+      "ddg_per_h1_his_kcal": 0.97,
+      "total_ddg_kcal": 2.54,
+      "affinity_ratio_kd74_kd65": 72.6,
+      "meets_criterion": true,
+      "switch_grade": "Strong"
+    },
+    "cross_species": {
+      "cross_species_score": 1.0,
+      "conserved_contact_count": 4,
+      "total_contacts": 4,
+      "contact_details": [
+        {
+          "residue": "D355",
+          "conserved": true,
+          "role": "Primary ligand contact"
+        },
+        {
+          "residue": "E352",
+          "conserved": true,
+          "role": "EGF binding, groove"
+        },
+        {
+          "residue": "Y373",
+          "conserved": true,
+          "role": "Aromatic cluster"
+        },
+        {
+          "residue": "E384",
+          "conserved": true,
+          "role": "Lateral groove"
+        }
+      ],
+      "passes": true
+    },
+    "blast": {
+      "status": "skipped",
+      "max_identity": 0,
+      "novel": true
+    },
+    "passes_all": true
+  },
+  {
+    "name": "EGFR-pH-HB-A02",
+    "group": "A",
+    "his_count": 3,
+    "ph_score": 8.28,
+    "length": 69,
+    "sequence": "WYQAHHLKALLAEELANLKRLEEAQKRLEEQLKGSGSLAAALRRLEQALREQKLGSLEAHLRRLEQALK",
+    "his_egfr_pairs": [
+      [
+        "H5\u2192D355",
+        "H8\u2192E352"
+      ]
+    ],
+    "conserved_contacts": [
+      "D355",
+      "E352",
+      "I374",
+      "E384"
+    ],
+    "ph_energy": {
+      "h1_his_count": 2,
+      "total_his": 3,
+      "buried_his": 1,
+      "frac_protonated_65": 0.5,
+      "frac_protonated_74": 0.112,
+      "ddg_per_h1_his_kcal": 0.97,
+      "total_ddg_kcal": 2.54,
+      "affinity_ratio_kd74_kd65": 72.6,
+      "meets_criterion": true,
+      "switch_grade": "Strong"
+    },
+    "cross_species": {
+      "cross_species_score": 1.0,
+      "conserved_contact_count": 4,
+      "total_contacts": 4,
+      "contact_details": [
+        {
+          "residue": "D355",
+          "conserved": true,
+          "role": "Primary ligand contact"
+        },
+        {
+          "residue": "E352",
+          "conserved": true,
+          "role": "EGF binding, groove"
+        },
+        {
+          "residue": "I374",
+          "conserved": true,
+          "role": "Hydrophobic patch"
+        },
+        {
+          "residue": "E384",
+          "conserved": true,
+          "role": "Lateral groove"
+        }
+      ],
+      "passes": true
+    },
+    "blast": {
+      "status": "skipped",
+      "max_identity": 0,
+      "novel": true
+    },
+    "passes_all": true
+  },
+  {
+    "name": "EGFR-pH-HB-A03",
+    "group": "A",
+    "his_count": 3,
+    "ph_score": 8.28,
+    "length": 69,
+    "sequence": "FYNHHALKALLQEELAQMKRLEEAQKRLEQALKGSGSLAAALRRLEQALREQKLGSLEAHLRRLEQALK",
+    "his_egfr_pairs": [
+      [
+        "H4\u2192D355",
+        "H5\u2192E352",
+        "cooperative"
+      ]
+    ],
+    "conserved_contacts": [
+      "D355",
+      "E352",
+      "E384"
+    ],
+    "ph_energy": {
+      "h1_his_count": 2,
+      "total_his": 3,
+      "buried_his": 1,
+      "frac_protonated_65": 0.5,
+      "frac_protonated_74": 0.112,
+      "ddg_per_h1_his_kcal": 0.97,
+      "total_ddg_kcal": 2.54,
+      "affinity_ratio_kd74_kd65": 72.6,
+      "meets_criterion": true,
+      "switch_grade": "Strong"
+    },
+    "cross_species": {
+      "cross_species_score": 1.0,
+      "conserved_contact_count": 3,
+      "total_contacts": 3,
+      "contact_details": [
+        {
+          "residue": "D355",
+          "conserved": true,
+          "role": "Primary ligand contact"
+        },
+        {
+          "residue": "E352",
+          "conserved": true,
+          "role": "EGF binding, groove"
+        },
+        {
+          "residue": "E384",
+          "conserved": true,
+          "role": "Lateral groove"
+        }
+      ],
+      "passes": true
+    },
+    "blast": {
+      "status": "skipped",
+      "max_identity": 0,
+      "novel": true
+    },
+    "passes_all": true
+  },
+  {
+    "name": "EGFR-pH-HB-A04",
+    "group": "A",
+    "his_count": 3,
+    "ph_score": 7.77,
+    "length": 69,
+    "sequence": "FYNAHHLRALLQQELAQLKRLEEAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+    "his_egfr_pairs": [
+      [
+        "H5\u2192D355",
+        "R8\u2192E384 baseline"
+      ]
+    ],
+    "conserved_contacts": [
+      "D355",
+      "E352",
+      "E384",
+      "Y373"
+    ],
+    "ph_energy": {
+      "h1_his_count": 2,
+      "total_his": 3,
+      "buried_his": 1,
+      "frac_protonated_65": 0.5,
+      "frac_protonated_74": 0.112,
+      "ddg_per_h1_his_kcal": 0.97,
+      "total_ddg_kcal": 2.54,
+      "affinity_ratio_kd74_kd65": 72.6,
+      "meets_criterion": true,
+      "switch_grade": "Strong"
+    },
+    "cross_species": {
+      "cross_species_score": 1.0,
+      "conserved_contact_count": 4,
+      "total_contacts": 4,
+      "contact_details": [
+        {
+          "residue": "D355",
+          "conserved": true,
+          "role": "Primary ligand contact"
+        },
+        {
+          "residue": "E352",
+          "conserved": true,
+          "role": "EGF binding, groove"
+        },
+        {
+          "residue": "E384",
+          "conserved": true,
+          "role": "Lateral groove"
+        },
+        {
+          "residue": "Y373",
+          "conserved": true,
+          "role": "Aromatic cluster"
+        }
+      ],
+      "passes": true
+    },
+    "blast": {
+      "status": "skipped",
+      "max_identity": 0,
+      "novel": true
+    },
+    "passes_all": true
+  },
+  {
+    "name": "EGFR-pH-HB-A05",
+    "group": "A",
+    "his_count": 3,
+    "ph_score": 7.78,
+    "length": 69,
+    "sequence": "YWNAHHLKALLQQELAQMKRLEEAQKRLEQALKGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+    "his_egfr_pairs": [
+      [
+        "H5\u2192D355",
+        "W1\u2192Y373 aromatic"
+      ]
+    ],
+    "conserved_contacts": [
+      "D355",
+      "E352",
+      "Y373",
+      "I374"
+    ],
+    "ph_energy": {
+      "h1_his_count": 2,
+      "total_his": 3,
+      "buried_his": 1,
+      "frac_protonated_65": 0.5,
+      "frac_protonated_74": 0.112,
+      "ddg_per_h1_his_kcal": 0.97,
+      "total_ddg_kcal": 2.54,
+      "affinity_ratio_kd74_kd65": 72.6,
+      "meets_criterion": true,
+      "switch_grade": "Strong"
+    },
+    "cross_species": {
+      "cross_species_score": 1.0,
+      "conserved_contact_count": 4,
+      "total_contacts": 4,
+      "contact_details": [
+        {
+          "residue": "D355",
+          "conserved": true,
+          "role": "Primary ligand contact"
+        },
+        {
+          "residue": "E352",
+          "conserved": true,
+          "role": "EGF binding, groove"
+        },
+        {
+          "residue": "Y373",
+          "conserved": true,
+          "role": "Aromatic cluster"
+        },
+        {
+          "residue": "I374",
+          "conserved": true,
+          "role": "Hydrophobic patch"
+        }
+      ],
+      "passes": true
+    },
+    "blast": {
+      "status": "skipped",
+      "max_identity": 0,
+      "novel": true
+    },
+    "passes_all": true
+  },
+  {
+    "name": "EGFR-pH-HB-B01",
+    "group": "B",
+    "his_count": 4,
+    "ph_score": 8.6,
+    "length": 69,
+    "sequence": "FYNAHHLKALLQQELAELKRLEEAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEHHLRRLEQALK",
+    "his_egfr_pairs": [
+      [
+        "H5\u2192D355",
+        "H9\u2192E352",
+        "H63+H64 buried cooperative"
+      ]
+    ],
+    "conserved_contacts": [
+      "D355",
+      "E352",
+      "E384"
+    ],
+    "ph_energy": {
+      "h1_his_count": 2,
+      "total_his": 4,
+      "buried_his": 2,
+      "frac_protonated_65": 0.5,
+      "frac_protonated_74": 0.112,
+      "ddg_per_h1_his_kcal": 0.97,
+      "total_ddg_kcal": 3.14,
+      "affinity_ratio_kd74_kd65": 199.7,
+      "meets_criterion": true,
+      "switch_grade": "Excellent"
+    },
+    "cross_species": {
+      "cross_species_score": 1.0,
+      "conserved_contact_count": 3,
+      "total_contacts": 3,
+      "contact_details": [
+        {
+          "residue": "D355",
+          "conserved": true,
+          "role": "Primary ligand contact"
+        },
+        {
+          "residue": "E352",
+          "conserved": true,
+          "role": "EGF binding, groove"
+        },
+        {
+          "residue": "E384",
+          "conserved": true,
+          "role": "Lateral groove"
+        }
+      ],
+      "passes": true
+    },
+    "blast": {
+      "status": "skipped",
+      "max_identity": 0,
+      "novel": true
+    },
+    "passes_all": true
+  },
+  {
+    "name": "EGFR-pH-HB-B02",
+    "group": "B",
+    "his_count": 4,
+    "ph_score": 8.6,
+    "length": 69,
+    "sequence": "WYQAHHLKALLAEELANLKRLEEAQKRLEEQLKGSGSLAAALRRLEQALREQKLGSLEHHLRRLEQALK",
+    "his_egfr_pairs": [
+      [
+        "H5\u2192D355",
+        "H8\u2192E352",
+        "H63+H64 buried"
+      ]
+    ],
+    "conserved_contacts": [
+      "D355",
+      "E352",
+      "Y373",
+      "E384"
+    ],
+    "ph_energy": {
+      "h1_his_count": 2,
+      "total_his": 4,
+      "buried_his": 2,
+      "frac_protonated_65": 0.5,
+      "frac_protonated_74": 0.112,
+      "ddg_per_h1_his_kcal": 0.97,
+      "total_ddg_kcal": 3.14,
+      "affinity_ratio_kd74_kd65": 199.7,
+      "meets_criterion": true,
+      "switch_grade": "Excellent"
+    },
+    "cross_species": {
+      "cross_species_score": 1.0,
+      "conserved_contact_count": 4,
+      "total_contacts": 4,
+      "contact_details": [
+        {
+          "residue": "D355",
+          "conserved": true,
+          "role": "Primary ligand contact"
+        },
+        {
+          "residue": "E352",
+          "conserved": true,
+          "role": "EGF binding, groove"
+        },
+        {
+          "residue": "Y373",
+          "conserved": true,
+          "role": "Aromatic cluster"
+        },
+        {
+          "residue": "E384",
+          "conserved": true,
+          "role": "Lateral groove"
+        }
+      ],
+      "passes": true
+    },
+    "blast": {
+      "status": "skipped",
+      "max_identity": 0,
+      "novel": true
+    },
+    "passes_all": true
+  },
+  {
+    "name": "EGFR-pH-HB-B03",
+    "group": "B",
+    "his_count": 4,
+    "ph_score": 8.6,
+    "length": 69,
+    "sequence": "FYNAHHLKALLQQELAELKRLEQAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQHLK",
+    "his_egfr_pairs": [
+      [
+        "H5\u2192D355",
+        "H9\u2192E352",
+        "H69 C-term buried"
+      ]
+    ],
+    "conserved_contacts": [
+      "D355",
+      "E352",
+      "E392"
+    ],
+    "ph_energy": {
+      "h1_his_count": 2,
+      "total_his": 4,
+      "buried_his": 2,
+      "frac_protonated_65": 0.5,
+      "frac_protonated_74": 0.112,
+      "ddg_per_h1_his_kcal": 0.97,
+      "total_ddg_kcal": 3.14,
+      "affinity_ratio_kd74_kd65": 199.7,
+      "meets_criterion": true,
+      "switch_grade": "Excellent"
+    },
+    "cross_species": {
+      "cross_species_score": 1.0,
+      "conserved_contact_count": 3,
+      "total_contacts": 3,
+      "contact_details": [
+        {
+          "residue": "D355",
+          "conserved": true,
+          "role": "Primary ligand contact"
+        },
+        {
+          "residue": "E352",
+          "conserved": true,
+          "role": "EGF binding, groove"
+        },
+        {
+          "residue": "E392",
+          "conserved": true,
+          "role": "Loop region contact"
+        }
+      ],
+      "passes": true
+    },
+    "blast": {
+      "status": "skipped",
+      "max_identity": 0,
+      "novel": true
+    },
+    "passes_all": true
+  },
+  {
+    "name": "EGFR-pH-HB-C01",
+    "group": "C",
+    "his_count": 3,
+    "ph_score": 8.28,
+    "length": 70,
+    "sequence": "FYNRAHHLKALLQQELAELKRLEEAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+    "his_egfr_pairs": [
+      [
+        "R4 baseline",
+        "H6\u2192D355",
+        "H9\u2192E392 shifted"
+      ]
+    ],
+    "conserved_contacts": [
+      "D355",
+      "E392",
+      "E384",
+      "D420"
+    ],
+    "ph_energy": {
+      "h1_his_count": 2,
+      "total_his": 3,
+      "buried_his": 1,
+      "frac_protonated_65": 0.5,
+      "frac_protonated_74": 0.112,
+      "ddg_per_h1_his_kcal": 0.97,
+      "total_ddg_kcal": 2.54,
+      "affinity_ratio_kd74_kd65": 72.6,
+      "meets_criterion": true,
+      "switch_grade": "Strong"
+    },
+    "cross_species": {
+      "cross_species_score": 1.0,
+      "conserved_contact_count": 4,
+      "total_contacts": 4,
+      "contact_details": [
+        {
+          "residue": "D355",
+          "conserved": true,
+          "role": "Primary ligand contact"
+        },
+        {
+          "residue": "E392",
+          "conserved": true,
+          "role": "Loop region contact"
+        },
+        {
+          "residue": "E384",
+          "conserved": true,
+          "role": "Lateral groove"
+        },
+        {
+          "residue": "D420",
+          "conserved": true,
+          "role": "Lower groove"
+        }
+      ],
+      "passes": true
+    },
+    "blast": {
+      "status": "skipped",
+      "max_identity": 0,
+      "novel": true
+    },
+    "passes_all": true
+  },
+  {
+    "name": "EGFR-pH-HB-C03",
+    "group": "C",
+    "his_count": 3,
+    "ph_score": 8.28,
+    "length": 69,
+    "sequence": "FYNKAHHLALLQQELAELKRLEEAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+    "his_egfr_pairs": [
+      [
+        "K4 baseline",
+        "H6\u2192D355",
+        "H7\u2192E392"
+      ]
+    ],
+    "conserved_contacts": [
+      "D355",
+      "E352",
+      "E392",
+      "D420"
+    ],
+    "ph_energy": {
+      "h1_his_count": 2,
+      "total_his": 3,
+      "buried_his": 1,
+      "frac_protonated_65": 0.5,
+      "frac_protonated_74": 0.112,
+      "ddg_per_h1_his_kcal": 0.97,
+      "total_ddg_kcal": 2.54,
+      "affinity_ratio_kd74_kd65": 72.6,
+      "meets_criterion": true,
+      "switch_grade": "Strong"
+    },
+    "cross_species": {
+      "cross_species_score": 1.0,
+      "conserved_contact_count": 4,
+      "total_contacts": 4,
+      "contact_details": [
+        {
+          "residue": "D355",
+          "conserved": true,
+          "role": "Primary ligand contact"
+        },
+        {
+          "residue": "E352",
+          "conserved": true,
+          "role": "EGF binding, groove"
+        },
+        {
+          "residue": "E392",
+          "conserved": true,
+          "role": "Loop region contact"
+        },
+        {
+          "residue": "D420",
+          "conserved": true,
+          "role": "Lower groove"
+        }
+      ],
+      "passes": true
+    },
+    "blast": {
+      "status": "skipped",
+      "max_identity": 0,
+      "novel": true
+    },
+    "passes_all": true
+  },
+  {
+    "name": "EGFR-pH-HB-D01",
+    "group": "D",
+    "his_count": 3,
+    "ph_score": 8.28,
+    "length": 70,
+    "sequence": "FYNKHLAKLHLLQQELAELKRLEEAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+    "his_egfr_pairs": [
+      [
+        "H5\u2192D355",
+        "H10\u2192D420 wide span"
+      ]
+    ],
+    "conserved_contacts": [
+      "D355",
+      "D420",
+      "Y373",
+      "E384"
+    ],
+    "ph_energy": {
+      "h1_his_count": 2,
+      "total_his": 3,
+      "buried_his": 1,
+      "frac_protonated_65": 0.5,
+      "frac_protonated_74": 0.112,
+      "ddg_per_h1_his_kcal": 0.97,
+      "total_ddg_kcal": 2.54,
+      "affinity_ratio_kd74_kd65": 72.6,
+      "meets_criterion": true,
+      "switch_grade": "Strong"
+    },
+    "cross_species": {
+      "cross_species_score": 1.0,
+      "conserved_contact_count": 4,
+      "total_contacts": 4,
+      "contact_details": [
+        {
+          "residue": "D355",
+          "conserved": true,
+          "role": "Primary ligand contact"
+        },
+        {
+          "residue": "D420",
+          "conserved": true,
+          "role": "Lower groove"
+        },
+        {
+          "residue": "Y373",
+          "conserved": true,
+          "role": "Aromatic cluster"
+        },
+        {
+          "residue": "E384",
+          "conserved": true,
+          "role": "Lateral groove"
+        }
+      ],
+      "passes": true
+    },
+    "blast": {
+      "status": "skipped",
+      "max_identity": 0,
+      "novel": true
+    },
+    "passes_all": true
+  },
+  {
+    "name": "EGFR-pH-HB-D02",
+    "group": "D",
+    "his_count": 3,
+    "ph_score": 8.28,
+    "length": 70,
+    "sequence": "WYNKHLARLHLLQQELAELKRLEEAQKRLEQALKGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+    "his_egfr_pairs": [
+      [
+        "H5\u2192D355",
+        "R7 baseline",
+        "H10\u2192D420 wide"
+      ]
+    ],
+    "conserved_contacts": [
+      "D355",
+      "D420",
+      "I374",
+      "E384"
+    ],
+    "ph_energy": {
+      "h1_his_count": 2,
+      "total_his": 3,
+      "buried_his": 1,
+      "frac_protonated_65": 0.5,
+      "frac_protonated_74": 0.112,
+      "ddg_per_h1_his_kcal": 0.97,
+      "total_ddg_kcal": 2.54,
+      "affinity_ratio_kd74_kd65": 72.6,
+      "meets_criterion": true,
+      "switch_grade": "Strong"
+    },
+    "cross_species": {
+      "cross_species_score": 1.0,
+      "conserved_contact_count": 4,
+      "total_contacts": 4,
+      "contact_details": [
+        {
+          "residue": "D355",
+          "conserved": true,
+          "role": "Primary ligand contact"
+        },
+        {
+          "residue": "D420",
+          "conserved": true,
+          "role": "Lower groove"
+        },
+        {
+          "residue": "I374",
+          "conserved": true,
+          "role": "Hydrophobic patch"
+        },
+        {
+          "residue": "E384",
+          "conserved": true,
+          "role": "Lateral groove"
+        }
+      ],
+      "passes": true
+    },
+    "blast": {
+      "status": "skipped",
+      "max_identity": 0,
+      "novel": true
+    },
+    "passes_all": true
+  },
+  {
+    "name": "EGFR-pH-HB-E01",
+    "group": "E",
+    "his_count": 3,
+    "ph_score": 8.28,
+    "length": 79,
+    "sequence": "FYNAHHLKALLQQELAELKRQLGSGSLEAALRRLEQALREQKLGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+    "his_egfr_pairs": [
+      [
+        "H5\u2192D355",
+        "H9\u2192E352",
+        "H75 distal contact"
+      ]
+    ],
+    "conserved_contacts": [
+      "D355",
+      "E352",
+      "Y373",
+      "E384",
+      "E392"
+    ],
+    "ph_energy": {
+      "h1_his_count": 2,
+      "total_his": 3,
+      "buried_his": 1,
+      "frac_protonated_65": 0.5,
+      "frac_protonated_74": 0.112,
+      "ddg_per_h1_his_kcal": 0.97,
+      "total_ddg_kcal": 2.54,
+      "affinity_ratio_kd74_kd65": 72.6,
+      "meets_criterion": true,
+      "switch_grade": "Strong"
+    },
+    "cross_species": {
+      "cross_species_score": 1.0,
+      "conserved_contact_count": 5,
+      "total_contacts": 5,
+      "contact_details": [
+        {
+          "residue": "D355",
+          "conserved": true,
+          "role": "Primary ligand contact"
+        },
+        {
+          "residue": "E352",
+          "conserved": true,
+          "role": "EGF binding, groove"
+        },
+        {
+          "residue": "Y373",
+          "conserved": true,
+          "role": "Aromatic cluster"
+        },
+        {
+          "residue": "E384",
+          "conserved": true,
+          "role": "Lateral groove"
+        },
+        {
+          "residue": "E392",
+          "conserved": true,
+          "role": "Loop region contact"
+        }
+      ],
+      "passes": true
+    },
+    "blast": {
+      "status": "skipped",
+      "max_identity": 0,
+      "novel": true
+    },
+    "passes_all": true
+  },
+  {
+    "name": "EGFR-pH-HB-G01",
+    "group": "G",
+    "his_count": 4,
+    "ph_score": 11.6,
+    "length": 69,
+    "sequence": "FYNAHHLKAHLQQELAELKRLEEAQKRLEQALQGSGSLEAALRRLEQALREQKLGSLEAHLRRLEQALK",
+    "his_egfr_pairs": [
+      [
+        "H5\u2192D355",
+        "H7\u2192E352",
+        "H10\u2192E384 tri-contact"
+      ]
+    ],
+    "conserved_contacts": [
+      "D355",
+      "E352",
+      "E384",
+      "D420"
+    ],
+    "ph_energy": {
+      "h1_his_count": 3,
+      "total_his": 4,
+      "buried_his": 1,
+      "frac_protonated_65": 0.5,
+      "frac_protonated_74": 0.112,
+      "ddg_per_h1_his_kcal": 0.97,
+      "total_ddg_kcal": 3.51,
+      "affinity_ratio_kd74_kd65": 372.9,
+      "meets_criterion": true,
+      "switch_grade": "Excellent"
+    },
+    "cross_species": {
+      "cross_species_score": 1.0,
+      "conserved_contact_count": 4,
+      "total_contacts": 4,
+      "contact_details": [
+        {
+          "residue": "D355",
+          "conserved": true,
+          "role": "Primary ligand contact"
+        },
+        {
+          "residue": "E352",
+          "conserved": true,
+          "role": "EGF binding, groove"
+        },
+        {
+          "residue": "E384",
+          "conserved": true,
+          "role": "Lateral groove"
+        },
+        {
+          "residue": "D420",
+          "conserved": true,
+          "role": "Lower groove"
+        }
+      ],
+      "passes": true
+    },
+    "blast": {
+      "status": "skipped",
+      "max_identity": 0,
+      "novel": true
+    },
+    "passes_all": true
+  }
+]

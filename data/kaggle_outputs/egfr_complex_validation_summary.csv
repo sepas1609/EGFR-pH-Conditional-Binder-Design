@@ -1,0 +1,14 @@
+rank,name,binder_plddt,egfr_plddt,complex_plddt,pdb_path
+1,EGFR-pH-HB-B02,64.48,84.12,75.0,/kaggle/working/complexes/EGFR-pH-HB-B02_EGFR_complex.pdb
+2,EGFR-pH-HB-B01,65.17,84.03,75.08,/kaggle/working/complexes/EGFR-pH-HB-B01_EGFR_complex.pdb
+3,EGFR-pH-HB-G01,69.86,84.94,77.28,/kaggle/working/complexes/EGFR-pH-HB-G01_EGFR_complex.pdb
+4,EGFR-pH-HB-B03,66.14,84.26,75.56,/kaggle/working/complexes/EGFR-pH-HB-B03_EGFR_complex.pdb
+5,EGFR-pH-HB-D02,69.21,84.38,76.64,/kaggle/working/complexes/EGFR-pH-HB-D02_EGFR_complex.pdb
+6,EGFR-pH-HB-A02,65.2,84.47,75.57,/kaggle/working/complexes/EGFR-pH-HB-A02_EGFR_complex.pdb
+7,EGFR-pH-HB-C01,66.99,84.42,75.95,/kaggle/working/complexes/EGFR-pH-HB-C01_EGFR_complex.pdb
+8,EGFR-pH-HB-A05,68.09,84.72,76.55,/kaggle/working/complexes/EGFR-pH-HB-A05_EGFR_complex.pdb
+9,EGFR-pH-HB-A03,65.48,84.67,75.73,/kaggle/working/complexes/EGFR-pH-HB-A03_EGFR_complex.pdb
+10,EGFR-pH-HB-D01,68.66,84.58,76.63,/kaggle/working/complexes/EGFR-pH-HB-D01_EGFR_complex.pdb
+11,EGFR-pH-HB-A01,66.12,84.54,75.8,/kaggle/working/complexes/EGFR-pH-HB-A01_EGFR_complex.pdb
+12,EGFR-pH-HB-A04,65.7,84.69,75.78,/kaggle/working/complexes/EGFR-pH-HB-A04_EGFR_complex.pdb
+13,EGFR-pH-HB-C03,68.23,84.46,76.38,/kaggle/working/complexes/EGFR-pH-HB-C03_EGFR_complex.pdb

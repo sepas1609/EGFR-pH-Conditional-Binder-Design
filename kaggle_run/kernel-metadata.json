@@ -1,0 +1,14 @@
+{
+  "id": "saranboddu/egfr-conditional-binder-complex-af2",
+  "title": "EGFR Conditional Binder Complex AF2",
+  "code_file": "egfr_complex_validation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

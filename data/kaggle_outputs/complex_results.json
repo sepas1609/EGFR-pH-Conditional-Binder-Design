@@ -1,0 +1,106 @@
+[
+  {
+    "rank": 1,
+    "name": "EGFR-pH-HB-B02",
+    "binder_plddt": 64.48,
+    "egfr_plddt": 84.12,
+    "complex_plddt": 75.0,
+    "pdb_path": "/kaggle/working/complexes/EGFR-pH-HB-B02_EGFR_complex.pdb"
+  },
+  {
+    "rank": 2,
+    "name": "EGFR-pH-HB-B01",
+    "binder_plddt": 65.17,
+    "egfr_plddt": 84.03,
+    "complex_plddt": 75.08,
+    "pdb_path": "/kaggle/working/complexes/EGFR-pH-HB-B01_EGFR_complex.pdb"
+  },
+  {
+    "rank": 3,
+    "name": "EGFR-pH-HB-G01",
+    "binder_plddt": 69.86,
+    "egfr_plddt": 84.94,
+    "complex_plddt": 77.28,
+    "pdb_path": "/kaggle/working/complexes/EGFR-pH-HB-G01_EGFR_complex.pdb"
+  },
+  {
+    "rank": 4,
+    "name": "EGFR-pH-HB-B03",
+    "binder_plddt": 66.14,
+    "egfr_plddt": 84.26,
+    "complex_plddt": 75.56,
+    "pdb_path": "/kaggle/working/complexes/EGFR-pH-HB-B03_EGFR_complex.pdb"
+  },
+  {
+    "rank": 5,
+    "name": "EGFR-pH-HB-D02",
+    "binder_plddt": 69.21,
+    "egfr_plddt": 84.38,
+    "complex_plddt": 76.64,
+    "pdb_path": "/kaggle/working/complexes/EGFR-pH-HB-D02_EGFR_complex.pdb"
+  },
+  {
+    "rank": 6,
+    "name": "EGFR-pH-HB-A02",
+    "binder_plddt": 65.2,
+    "egfr_plddt": 84.47,
+    "complex_plddt": 75.57,
+    "pdb_path": "/kaggle/working/complexes/EGFR-pH-HB-A02_EGFR_complex.pdb"
+  },
+  {
+    "rank": 7,
+    "name": "EGFR-pH-HB-C01",
+    "binder_plddt": 66.99,
+    "egfr_plddt": 84.42,
+    "complex_plddt": 75.95,
+    "pdb_path": "/kaggle/working/complexes/EGFR-pH-HB-C01_EGFR_complex.pdb"
+  },
+  {
+    "rank": 8,
+    "name": "EGFR-pH-HB-A05",
+    "binder_plddt": 68.09,
+    "egfr_plddt": 84.72,
+    "complex_plddt": 76.55,
+    "pdb_path": "/kaggle/working/complexes/EGFR-pH-HB-A05_EGFR_complex.pdb"
+  },
+  {
+    "rank": 9,
+    "name": "EGFR-pH-HB-A03",
+    "binder_plddt": 65.48,
+    "egfr_plddt": 84.67,
+    "complex_plddt": 75.73,
+    "pdb_path": "/kaggle/working/complexes/EGFR-pH-HB-A03_EGFR_complex.pdb"
+  },
+  {
+    "rank": 10,
+    "name": "EGFR-pH-HB-D01",
+    "binder_plddt": 68.66,
+    "egfr_plddt": 84.58,
+    "complex_plddt": 76.63,
+    "pdb_path": "/kaggle/working/complexes/EGFR-pH-HB-D01_EGFR_complex.pdb"
+  },
+  {
+    "rank": 11,
+    "name": "EGFR-pH-HB-A01",
+    "binder_plddt": 66.12,
+    "egfr_plddt": 84.54,
+    "complex_plddt": 75.8,
+    "pdb_path": "/kaggle/working/complexes/EGFR-pH-HB-A01_EGFR_complex.pdb"
+  },
+  {
+    "rank": 12,
+    "name": "EGFR-pH-HB-A04",
+    "binder_plddt": 65.7,
+    "egfr_plddt": 84.69,
+    "complex_plddt": 75.78,
+    "pdb_path": "/kaggle/working/complexes/EGFR-pH-HB-A04_EGFR_complex.pdb"
+  },
+  {
+    "rank": 13,
+    "name": "EGFR-pH-HB-C03",
+    "binder_plddt": 68.23,
+    "egfr_plddt": 84.46,
+    "complex_plddt": 76.38,
+    "pdb_path": "/kaggle/working/complexes/EGFR-pH-HB-C03_EGFR_complex.pdb"
+  }
+]
